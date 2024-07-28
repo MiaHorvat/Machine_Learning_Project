@@ -3,11 +3,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Machine Learning Projekt: Fashion-MNIST Klassifikation</title>
 </head>
 <body>
 
-
+<h1>Machine Learning Projekt: Fashion-MNIST Klassifikation</h1>
 
 <h2>Verwendung</h2>
 <p>Klone dieses Repository:</p>
